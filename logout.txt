@@ -1,1 +1,2 @@
 press log out to naviguate 
+press logout to naviguate to the signup page
